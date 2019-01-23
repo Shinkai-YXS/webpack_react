@@ -4,6 +4,8 @@
 
 * `npm install webpack`
 
+* `npm install webpack-cli`
+
 * `npm install react`
 
 * `npm install --save @types/del`
