@@ -1,4 +1,5 @@
-# webpack_react
+# webpack_react 项目搭建
+
 * `npm init`
 
 * `npm install webpack`
