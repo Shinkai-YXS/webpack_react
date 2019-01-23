@@ -16,3 +16,8 @@
 
 * `npm install react-dom -S`
    * react-dom 是将 react 组件渲染到 dom 中的
+  
+* 安装 babel 依赖
+  * `npm install babel-loader -D` 
+  * `npm install babel-core -D`
+  * `npm install babel-preset-es2015 babel-preset-es2015-loose babel-preset-react -D`
