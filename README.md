@@ -15,3 +15,4 @@
   * client 目录中创建 app.js 和 App.jsx(声明整个应用的页面上的内容)
 
 * `npm install react-dom -S`
+   * react-dom 是将 react 组件渲染到 dom 中的
