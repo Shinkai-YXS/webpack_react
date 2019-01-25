@@ -1,4 +1,4 @@
-# webpack_react 项目搭建
+# 项目搭建
 
 * `npm init`
 
