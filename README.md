@@ -21,3 +21,5 @@
   * `npm install babel-loader -D` 
   * `npm install babel-core -D`
   * `npm install babel-preset-es2015 babel-preset-es2015-loose babel-preset-react -D`
+  
+* `npm install html-webpack-plugin -D`
